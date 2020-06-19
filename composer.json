@@ -50,12 +50,12 @@
     },
     "require": {
         "piwik/device-detector": "^3.11",
-        "illuminate/support": "^6.0",
-        "illuminate/contracts": "^6.0",
-        "illuminate/http": "^6.0"
+        "illuminate/support": "^6.0|^7.0",
+        "illuminate/contracts": "^6.0|^7.0",
+        "illuminate/http": "^6.0|^7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.5",
-        "laravel/framework": "^6.0"
+        "phpunit/phpunit": "^8.5",
+        "laravel/framework": "^6.0|^7.0"
     }
 }
